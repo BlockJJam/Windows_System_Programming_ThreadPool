@@ -42,6 +42,18 @@
     <ClCompile Include="EchoSvrRwso.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="TPoolTimer2K.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="TPoolIo2K.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="DirChgNotiIBICC.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="MultiCopyBICC.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="targetver.h">
